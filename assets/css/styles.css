@@ -1,0 +1,17 @@
+/* styles.css - básico y responsive */
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+.hero {
+  background-image: linear-gradient(90deg, rgba(13,110,253,0.06), rgba(255,193,7,0.04));
+}
+
+.card img {
+  object-fit: cover;
+  height: 180px;
+}
+
+.icon {
+  font-size: 28px;
+}
